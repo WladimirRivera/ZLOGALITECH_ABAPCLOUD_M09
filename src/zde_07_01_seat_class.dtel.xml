@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_07_01_SEAT_CLASS</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZDO_07_01_SEAT_CLASS</DOMNAME>
+    <HEADLEN>10</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>Class 7.01: Seat class</DDTEXT>
+    <REPTEXT>Seat Class</REPTEXT>
+    <SCRTEXT_S>Class</SCRTEXT_S>
+    <SCRTEXT_M>Seat Class</SCRTEXT_M>
+    <SCRTEXT_L>Seat Class of Flight</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
