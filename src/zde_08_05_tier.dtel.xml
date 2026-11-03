@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_08_05_TIER</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZDO_08_05_TIER</DOMNAME>
+    <HEADLEN>04</HEADLEN>
+    <SCRLEN1>04</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>Class 8.05: Loyalty tier</DDTEXT>
+    <REPTEXT>Tier</REPTEXT>
+    <SCRTEXT_S>Tier</SCRTEXT_S>
+    <SCRTEXT_M>Loyalty Tier</SCRTEXT_M>
+    <SCRTEXT_L>Loyalty Tier</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

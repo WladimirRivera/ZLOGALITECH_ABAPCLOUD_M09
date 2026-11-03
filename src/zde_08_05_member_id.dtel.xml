@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_08_05_MEMBER_ID</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>09</HEADLEN>
+    <SCRLEN1>06</SCRLEN1>
+    <SCRLEN2>09</SCRLEN2>
+    <SCRLEN3>17</SCRLEN3>
+    <DDTEXT>Class 8.05: Loyalty member ID</DDTEXT>
+    <REPTEXT>Member ID</REPTEXT>
+    <SCRTEXT_S>Member</SCRTEXT_S>
+    <SCRTEXT_M>Member ID</SCRTEXT_M>
+    <SCRTEXT_L>Loyalty Member ID</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000010</LENG>
+    <OUTPUTLEN>000010</OUTPUTLEN>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
